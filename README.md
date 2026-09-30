@@ -11,3 +11,6 @@ Sistema de IA para la tomar decisiones basadas en informacion varia interna de l
 
 ## Francisco de Jesus Gonzalez Lopez
 # Tecnologias
+
+## Estado del proyecto
+Prototipo inicial
